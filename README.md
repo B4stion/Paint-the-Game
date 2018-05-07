@@ -12,7 +12,7 @@ An executable version of the game is available for windows. The file name is "Pa
 
 ### Demo
 
-A gameplay video can be found at the following link: https://youtu.be/lNbWb8xdPdw
+A gameplay video can be found at the following link: https://youtu.be/jWfweecZisI
 
 ## Authors
 * **Scott Hodnefield**
